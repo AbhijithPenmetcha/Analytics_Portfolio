@@ -1,3 +1,4 @@
+
 # Prime Air | Drone Hub Location Strategy
 
 **Location Analytics | Network Optimization | Demand Modeling | Excel | Business Strategy**
@@ -6,9 +7,9 @@
 
 Where should Amazon Prime Air establish drone delivery hubs to maximize geographic coverage and efficiently serve potential demand across Massachusetts?
 
-This collaborative project evaluates potential hub locations using demographic analysis, geographic optimization and demand allocation modeling.
+This collaborative academic project evaluates potential hub locations using demographic analysis, geographic optimization and demand allocation modeling.
 
-The analysis combines two quantitative approaches, the **Weighted Center of Gravity (COG) Method** and **Huff's Gravity Model**, to recommend a three-hub delivery network.
+The analysis combines two quantitative approaches: the **Weighted Center of Gravity (COG) Method** and **Huff's Gravity Model** to recommend a three-hub delivery network.
 
 ## Business Objectives
 
@@ -30,7 +31,7 @@ A composite weighting approach incorporated population, income, age, urbanizatio
 
 Applied weighted geographic coordinates to identify demand-centered hub locations across Eastern, Central and Western Massachusetts.
 
-The model identified Newton and Worcester as strong geographic candidates, with Springfield selected for the Western hub after considering regional accessibility and demand concentration.
+The model identified Newton and Worcester as strong geographic candidates with Springfield selected for the Western hub after considering regional accessibility and demand concentration.
 
 ### 3. Geographic Coverage Analysis
 
@@ -54,15 +55,17 @@ This helped estimate how demand could be distributed between Newton, Worcester a
 | Worcester | 357,118 | 15.65% |
 | Springfield | 373,892 | 12.00% |
 
-**Newton — Primary Hub**
+### Newton — Primary Hub
 
-Identified as the strongest candidate for initial deployment due to high population concentration and modeled demand attractiveness. The Huff model allocated approximately 72% of statewide population-based demand to this hub.
+Identified as the strongest candidate for initial deployment due to high population concentration and modeled demand attractiveness.
 
-**Worcester — Central Hub**
+The Huff model allocated approximately **72% of statewide population-based demand** to this hub.
+
+### Worcester — Central Hub
 
 Recommended to improve regional access and provide an intermediate location between Eastern and Western Massachusetts.
 
-**Springfield — Western Hub**
+### Springfield — Western Hub
 
 Selected to support Western Massachusetts coverage after comparing geographic positioning with regional demand and accessibility considerations.
 
@@ -99,7 +102,11 @@ The project includes two supporting Excel models:
 - Demand allocation results are model estimates rather than observed market shares.
 - Real-world implementation would require additional cost, regulatory, weather and operational feasibility analysis.
 
+## Project Context
 
+Completed as a collaborative academic project involving location analysis, quantitative modeling and strategic recommendations.
+
+## Author
 
 **Abhijith Penmetcha**
 
