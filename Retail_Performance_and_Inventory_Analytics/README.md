@@ -51,7 +51,6 @@ These findings reflect the workbook's exploratory analysis and should be validat
 ## Explore the Project
 
 - [Download Tableau Workbook](Abhijith_Penmetcha_Optimizing_Inventory_Insights.twbx)
-- Dashboard screenshots: to be added
 
 The packaged workbook can be opened using a compatible version of Tableau Desktop.
 
