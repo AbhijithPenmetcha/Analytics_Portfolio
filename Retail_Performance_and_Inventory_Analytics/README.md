@@ -52,6 +52,20 @@ These findings reflect the workbook's exploratory analysis and should be validat
 
 [Download Tableau Workbook](Retail%20Performance%20%26%20Inventory%20Analytics.twbx)
 
+## Dashboard Previews
+
+### 1. Revenue and Profit Insights
+![Revenue and Profit Dashboard](images/revenue_profit_dashboard.png)
+
+### 2. Operational and Regional Performance
+![Operational and Regional Performance](images/operations_regional_dashboard.png)
+
+### 3. Revenue and Gross Profit Trend
+![Revenue and Gross Profit Trend](images/revenue_profit_trend.png)
+
+### 4. Pareto Analysis of Revenue Concentration
+![Pareto Revenue Analysis](images/pareto_revenue_analysis.png)
+
 The packaged workbook can be opened using a compatible version of Tableau Desktop.
 
 ## Author
