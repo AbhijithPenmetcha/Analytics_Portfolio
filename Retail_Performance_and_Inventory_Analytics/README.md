@@ -50,7 +50,7 @@ These findings reflect the workbook's exploratory analysis and should be validat
 
 ## Explore the Project
 
-- [Download Tableau Workbook](Abhijith_Penmetcha_Optimizing_Inventory_Insights.twbx)
+[Download Tableau Workbook](Retail%20Performance%20%26%20Inventory%20Analytics.twbx)
 
 The packaged workbook can be opened using a compatible version of Tableau Desktop.
 
