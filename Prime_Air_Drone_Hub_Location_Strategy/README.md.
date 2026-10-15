@@ -1,0 +1,106 @@
+# Prime Air | Drone Hub Location Strategy
+
+**Location Analytics | Network Optimization | Demand Modeling | Excel | Business Strategy**
+
+## Project Overview
+
+Where should Amazon Prime Air establish drone delivery hubs to maximize geographic coverage and efficiently serve potential demand across Massachusetts?
+
+This collaborative project evaluates potential hub locations using demographic analysis, geographic optimization and demand allocation modeling.
+
+The analysis combines two quantitative approaches, the **Weighted Center of Gravity (COG) Method** and **Huff's Gravity Model**, to recommend a three-hub delivery network.
+
+## Business Objectives
+
+- Identify strategically positioned drone delivery hubs across Massachusetts.
+- Evaluate potential demand using population, income, urbanization and broadband access.
+- Estimate population coverage within 5 km, 10 km and 15 km service radii.
+- Model demand allocation across proposed hub locations.
+- Develop a phased network expansion recommendation.
+
+## Analytical Methodology
+
+### 1. Demand Assessment
+
+Analyzed Massachusetts county-level population and demographic characteristics to estimate potential demand for drone delivery.
+
+A composite weighting approach incorporated population, income, age, urbanization and broadband access to evaluate regional attractiveness.
+
+### 2. Weighted Center of Gravity (COG)
+
+Applied weighted geographic coordinates to identify demand-centered hub locations across Eastern, Central and Western Massachusetts.
+
+The model identified Newton and Worcester as strong geographic candidates, with Springfield selected for the Western hub after considering regional accessibility and demand concentration.
+
+### 3. Geographic Coverage Analysis
+
+Evaluated the population accessible within 5 km, 10 km and 15 km of proposed hubs.
+
+The analysis assumes a drone speed of 60 km/h and simplified straight-line travel distances.
+
+### 4. Huff's Gravity Model
+
+Applied a probabilistic demand allocation model incorporating hub attractiveness and distance decay.
+
+This helped estimate how demand could be distributed between Newton, Worcester and Springfield rather than assuming every customer would use the closest hub.
+
+## Key Findings
+
+### Recommended Hub Network
+
+| Proposed Hub | Population Within 15 km | Modeled Demand Share |
+|---|---:|---:|
+| Newton | 1,724,123 | 72.35% |
+| Worcester | 357,118 | 15.65% |
+| Springfield | 373,892 | 12.00% |
+
+**Newton — Primary Hub**
+
+Identified as the strongest candidate for initial deployment due to high population concentration and modeled demand attractiveness. The Huff model allocated approximately 72% of statewide population-based demand to this hub.
+
+**Worcester — Central Hub**
+
+Recommended to improve regional access and provide an intermediate location between Eastern and Western Massachusetts.
+
+**Springfield — Western Hub**
+
+Selected to support Western Massachusetts coverage after comparing geographic positioning with regional demand and accessibility considerations.
+
+## Strategic Recommendations
+
+**1. Prioritize Newton for initial deployment.**
+
+The model suggests that a Newton-based hub would serve the largest concentration of potential demand.
+
+**2. Expand through Worcester and Springfield.**
+
+A phased rollout could improve geographic reach while allowing operational capabilities to be evaluated before further expansion.
+
+**3. Combine location optimization with demand allocation.**
+
+The COG method helps identify geographically balanced candidate locations while Huff's Model evaluates their relative attractiveness and estimated demand shares.
+
+**4. Validate operational feasibility before investment.**
+
+Hub recommendations should be tested against regulatory restrictions, actual order demand, drone operating costs and flight-path limitations.
+
+## Excel Models
+
+The project includes two supporting Excel models:
+
+- **[Center of Gravity Model](models/Center_of_Gravity_Model.xlsx)** — Demographic weighting, geographic calculations and coverage analysis.
+- **[Huff Gravity Model](models/Huff_Gravity_Model.xlsx)** — Hub attractiveness, distance-based probabilities and modeled demand allocation.
+
+## Assumptions & Limitations
+
+- This is a hypothetical academic analysis and was not commissioned by Amazon.
+- Population and demographic characteristics serve as proxies for actual customer demand.
+- The model uses simplified travel distances and assumed drone operating speeds.
+- Demand allocation results are model estimates rather than observed market shares.
+- Real-world implementation would require additional cost, regulatory, weather and operational feasibility analysis.
+
+
+
+**Abhijith Penmetcha**
+
+[LinkedIn](https://www.linkedin.com/in/abhijith-penmetcha/)
