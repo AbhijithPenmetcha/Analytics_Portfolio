@@ -7,7 +7,7 @@
 
 Where should Amazon Prime Air establish drone delivery hubs to maximize geographic coverage and efficiently serve potential demand across Massachusetts?
 
-This collaborative academic project evaluates potential hub locations using demographic analysis, geographic optimization and demand allocation modeling.
+This collaborative project evaluates potential hub locations using demographic analysis, geographic optimization and demand allocation modeling.
 
 The analysis combines two quantitative approaches: the **Weighted Center of Gravity (COG) Method** and **Huff's Gravity Model** to recommend a three-hub delivery network.
 
@@ -102,11 +102,6 @@ The project includes two supporting Excel models:
 - Demand allocation results are model estimates rather than observed market shares.
 - Real-world implementation would require additional cost, regulatory, weather and operational feasibility analysis.
 
-## Project Context
-
-Completed as a collaborative academic project involving location analysis, quantitative modeling and strategic recommendations.
-
-## Author
 
 **Abhijith Penmetcha**
 
