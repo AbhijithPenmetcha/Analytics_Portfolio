@@ -4,9 +4,9 @@
 
 ## Project Overview
 
-Revenue growth doesn't always tell the full story of business performance. A product category can generate strong sales while contributing relatively little profit, and inventory that sells slowly can tie up valuable capital.
+Revenue growth doesn't always tell the full story of business performance. A product category can generate strong sales while contributing relatively little profit and inventory that sells slowly can tie up valuable capital.
 
-This project uses Tableau to examine retail performance across product categories, regions, and time periods, connecting sales performance with profitability, inventory efficiency, and advertising costs.
+This project uses Tableau to examine retail performance across product categories, regions, and time periods, connecting sales performance with profitability, inventory efficiency and advertising costs.
 
 ## Business Objectives
 
@@ -20,11 +20,11 @@ This project uses Tableau to examine retail performance across product categorie
 
 ### 1. Revenue & Profit Insights
 
-Explores overall revenue, gross profit trends, product-category contributions, and revenue concentration using Pareto analysis.
+Explores overall revenue, gross profit trends, product-category contributions and revenue concentration using Pareto analysis.
 
 ### 2. Operational & Regional Performance
 
-Examines inventory turnover, advertising cost efficiency, average order size, and regional sales patterns to support operational and strategic decisions.
+Examines inventory turnover, advertising cost efficiency, average order size and regional sales patterns to support operational and strategic decisions.
 
 ## Key Insights
 
@@ -39,14 +39,14 @@ These findings reflect the workbook's exploratory analysis and should be validat
 
 - Assess profitability and inventory efficiency together rather than relying on revenue rankings alone.
 - Use category-level turnover patterns to inform inventory planning and product prioritization.
-- Investigate regional growth opportunities using revenue, profitability, and demand trends.
+- Investigate regional growth opportunities using revenue, profitability and demand trends.
 - Evaluate advertising investment alongside contribution margins and product performance.
 
 ## Tools & Techniques
 
 **Tool:** Tableau
 
-**Techniques:** Interactive dashboards, calculated fields, Pareto analysis, trend analysis, profitability analysis, inventory turnover, regional comparisons, and KPI visualization.
+**Techniques:** Interactive dashboards, calculated fields, Pareto analysis, trend analysis, profitability analysis, inventory turnover, regional comparisons and KPI visualization.
 
 ## Explore the Project
 
