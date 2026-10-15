@@ -8,7 +8,7 @@ A retail superstore is preparing a promotional campaign for its Gold Membership 
 
 The business challenge is determining which customers are most likely to respond positively to the offer. Contacting every customer increases marketing costs, while overly restrictive targeting risks missing potential conversions.
 
-This project analyzes customer demographics, purchasing behavior, and historical campaign engagement to develop machine learning models that can support more informed marketing decisions.
+This project analyzes customer demographics, purchasing behavior and historical campaign engagement to develop machine learning models that can support more informed marketing decisions.
 
 ## Business Objectives
 
@@ -16,7 +16,7 @@ This project analyzes customer demographics, purchasing behavior, and historical
 - Explore purchasing behavior and engagement patterns.
 - Build and compare classification models to predict customer responses.
 - Address class imbalance using SMOTE.
-- Evaluate model performance using accuracy, precision, recall, and F1-score.
+- Evaluate model performance using accuracy, precision, recall and F1-score.
 - Recommend targeting strategies that balance conversion opportunities with outreach costs.
 
 ## Tools and Technologies
@@ -32,11 +32,11 @@ This project analyzes customer demographics, purchasing behavior, and historical
 
 ### 1. Exploratory Data Analysis
 
-Examined customer demographics, income, household characteristics, product spending, and historical campaign engagement to understand differences between responders and non-responders.
+Examined customer demographics, income, household characteristics, product spending and historical campaign engagement to understand differences between responders and non-responders.
 
 ### 2. Data Preparation and Feature Engineering
 
-Handled missing values, transformed categorical features, developed customer-level attributes, and prepared the dataset for classification modeling.
+Handled missing values, transformed categorical features, developed customer-level attributes and prepared the dataset for classification modeling.
 
 ### 3. Predictive Modeling
 
@@ -74,7 +74,7 @@ The analysis revealed that models with high overall accuracy did not necessarily
 - Logistic Regression with SMOTE achieved the highest responder recall among the compared approaches, identifying 68% of actual responders.
 - Random Forest with SMOTE offered a comparatively balanced precision-recall trade-off.
 - The Voting Classifier demonstrated competitive recall while maintaining moderate precision.
-- Total spending, income, and recency emerged as influential features in the Random Forest analysis.
+- Total spending, income and recency emerged as influential features in the Random Forest analysis.
 
 ## Business Recommendations
 
@@ -88,18 +88,18 @@ When contacting non-responders is expensive, precision becomes more important. W
 
 **3. Use customer behavior to inform segmentation.**
 
-Purchasing patterns, income, and recency can support customer segmentation and further targeting experiments. These relationships should be validated before making operational targeting decisions.
+Purchasing patterns, income and recency can support customer segmentation and further targeting experiments. These relationships should be validated before making operational targeting decisions.
 
 **4. Validate before operational deployment.**
 
-Further evaluation should address preprocessing and model-selection limitations, assess performance on untouched data, and incorporate actual campaign economics.
+Further evaluation should address preprocessing and model-selection limitations, assess performance on untouched data and incorporate actual campaign economics.
 
 ## Limitations and Future Scope
 
 - The analysis uses historical customer data and does not establish causal effects.
 - Some preprocessing and model-selection decisions require additional validation to eliminate potential data leakage.
-- Actual marketing costs, contribution margins, and incremental campaign effects are unavailable.
-- Future improvements could include leakage-safe cross-validation, probability-threshold optimization, campaign economics, and prospective testing.
+- Actual marketing costs, contribution margins and incremental campaign effects are unavailable.
+- Future improvements could include leakage-safe cross-validation, probability-threshold optimization, campaign economics and prospective testing.
 
 ## Project Notebook
 
