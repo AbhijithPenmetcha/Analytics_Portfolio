@@ -54,6 +54,22 @@ Analyzes turnover patterns across departments, job roles, overtime, business tra
 
 Power BI | DAX | Data Modeling | Data Visualization | People Analytics
 
+
+## Dashboard Previews
+
+### 1. Workforce Overview
+![Workforce Overview](images/workforce_overview.png)
+
+### 2. Employee Demographics
+![Employee Demographics](images/employee_demographics.png)
+
+### 3. Performance Tracker
+![Performance Tracker](images/performance_tracker.png)
+
+### 4. Employee Attrition
+![Employee Attrition](images/employee_attrition.png)
+  
+
 ## Explore the Project
 
 [Download Power BI Report](HR_Analytics_Employee_Attrition.pbix)
