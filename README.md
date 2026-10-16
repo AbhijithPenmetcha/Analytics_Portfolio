@@ -22,12 +22,12 @@ This is my little corner of GitHub for exploring business problems, testing idea
 
 Not everything I've worked on comes with a GitHub repository. A few projects involved real business challenges where the work itself isn't publicly available.
 
-_Amazon | Operational Efficiency & Cost Optimization_
+_Amazon | Operational Efficiency & Cost Optimization_:
 Worked on operational performance challenges involving backlog management, process inefficiencies and escalations. Used SQL, reporting and cross-functional analysis to identify improvement opportunities and support cost-saving initiatives.
 
-_LoopRoots Foundation | Transportation Pricing & Revenue Strategy_
+_LoopRoots Foundation | Transportation Pricing & Revenue Strategy_:
 Working on transportation technology pricing and financial analysis on excel, including vendor cost comparisons, pricing scenarios and recommendations to support contract negotiations and long-term operational planning.
 
-**Currently exploring:** Business Strategy • Analytics • Operations
+
 
 [LinkedIn](https://www.linkedin.com/in/abhijith-penmetcha/)
